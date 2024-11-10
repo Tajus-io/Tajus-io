@@ -1,9 +1,9 @@
 # 👋 Hey, I'm Tajus
 
-16-year-old developer diving deep into C/C++ and working on launching my own SaaS products. Passionate about building scalable solutions and turning ideas into reality.
+16-year-old developer diving deep into C/C++/ASM and working on launching my own SaaS products. Passionate about building scalable solutions and turning ideas into reality.
 
 ## 🔧 Tech Stack
-- **Main:** C/C++
+- **Main:** C/C++/ASM
 - **Other Tools:** Git, VS Code, Visual Studio
 - **Platform:** Windows
 - **Learning:** Cloud Services, API Development
